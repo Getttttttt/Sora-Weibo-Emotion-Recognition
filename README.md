@@ -1,8 +1,7 @@
 # Sora-Weibo-Emotion-Recognition
-We crawled the text data and user tags of relevant discussions on Weibo after Sora appeared, and conducted feature profiling and in-depth analysis based on user tags.
+We uesd python to crawl the text data and user tags of relevant discussions on Weibo after Sora appeared, and conducted feature profiling and in-depth analysis based on user tags.
 
-python爬虫传到ScrawPython
+Then, use the transformer based model to analysis emotion of Weibo text.
 
-情绪识别传到EmotionRecognition
+Finally, we use the Elastic Net Logistic Regression to recognize the emotion.
 
-用户标签传到UserTag
