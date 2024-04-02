@@ -1,0 +1,14 @@
+Best parameters: {'C': 0.0001, 'l1_ratio': 0.0}
+Best cross-validation score: 0.9703163017031631
+
+Classification report:
+               precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       503
+           1       0.00      0.00      0.00         1
+           2       0.00      0.00      0.00        10
+
+    accuracy                           0.98       514
+   macro avg       0.33      0.33      0.33       514
+weighted avg       0.96      0.98      0.97       514
+
